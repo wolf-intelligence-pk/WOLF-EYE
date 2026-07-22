@@ -6,7 +6,7 @@
   # 🐺 WOLF-EYE v1.0 - Advanced Reconnaissance Framework
   
   ![Version](https://img.shields.io/badge/WOLF--EYE-V1.0-red?style=for-the-badge&logo=wolframlanguage&logoColor=white)
-  ![Version](https://img.shields.io/badge/Version-2.0_Enhanced-blue?style=for-the-badge)
+  ![Version](https://img.shields.io/badge/Version-1.0_Enhanced-blue?style=for-the-badge)
   ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux%20%7C%20macOS-lightgrey?style=for-the-badge&logo=linux&logoColor=white)
   ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white)
